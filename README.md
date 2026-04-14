@@ -45,26 +45,30 @@ Spatial distribution of fishing gears:
 
 ---
 #### Enforcement patrol zones
+Patrol Areas layers:
+
 
 ---
 #### Habitat Layers
-Mangrove extent and density
-Coral reef distribution and health status
-Seagrass beds
-Coastal land cover classifications
+ 1. Mangrove extent and density
+ 2. Coral reef distribution
+ 3. Seagrass beds
 
 ---
 #### Conservation Layers
-Marine Protected Areas (MPAs)
-Locally Managed Marine Areas (LMMAs)
-Restricted fishing zones
-Biodiversity hotspots
+1. Marine Protested Area (MPA)
+   - ** Watamu Marine Protested Area (wMPA)**- [ Watamu Marine Protested Area (WMPA)](https://github.com/bhdevops-sys/bh_geodata/blob/main/data/watamu_mpa.geojson)
+2. Watamu Marine Park
+   - ** Watamu Marine Park**- [ Watamu Marine Park](https://github.com/bhdevops-sys/bh_geodata/blob/main/data/watamu_marine_park.geojson)
+3. Locally Managed Marine Areas (LMMAs)
+4. Restricted fishing zones
+5. Biodiversity areas
 
 ---
 #### Socio-Economic Layers
-Coastal community locations
-Livelihood activities (fishing, farming, tourism)
-Infrastructure (markets, roads, landing sites)
+ 1. Coastal community locations
+ 2. Livelihood activities (fishing, farming, tourism)
+ 3. Infrastructure (markets, roads, landing sites)
 
 ---
 #### Data Formats
