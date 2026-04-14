@@ -32,7 +32,7 @@ Environmental pressures (pollution, illegal activities)
 The repository includes multiple fisheries-related geospatial layers:
 
 1. Fishing Effort
-   - ** Artisanal fishing grounds**- [ Artisanal fishing grounds](https://github.com/bhdevops-sys/bh_geodata/blob/main/data/wtm_mld_fishing_stes.geojson)
+   - ** Artisanal fishing grounds**- [ Artisanal fishing grounds](https://github.com/bhdevops-sys/bh_geodata/blob/main/data/wtm_mld_fishing_sites.geojson)
 2. Landing Sites
    - ** Fish landing sites**- [ Fish landing sites](https://github.com/bhdevops-sys/bh_geodata/blob/main/data/wtm_mld_fish_landing_sites.geojson)
 3. Gear Types
