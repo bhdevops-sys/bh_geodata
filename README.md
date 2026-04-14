@@ -22,7 +22,6 @@ Environmental pressures (pollution, illegal activities)
 │ └── socio_economic/ # Community and livelihood data
 │
 ├── metadata/ # Dataset descriptions and sources
-├── scripts/ # Data processing and analysis scripts
 ├── notebooks/ # Jupyter notebooks for exploration
 ├── outputs/ # Maps, figures, and analysis outputs
 └── README.md # Project documentation
@@ -35,19 +34,17 @@ The repository includes multiple fisheries-related geospatial layers:
 1. Fishing Effort
    - Artisanal fishing grounds
 2. Landing Sites
-   - Fish landing sites
+   - ** Fish landing sites**- [ Fish landing sites]()
 3. Gear Types
 Spatial distribution of fishing gears:
    - Gillnets
    - Longlines
    - Traps
    - Monofilaments
-4. Catch Data (Spatialized)
-Species distribution by catch
-Catch per unit effort (CPUE)
-6. Illegal, Unreported, and Unregulated (IUU) Indicators
-Reported hotspots
-Enforcement patrol zones
+
+
+---
+#### Enforcement patrol zones
 
 ---
 #### Habitat Layers
